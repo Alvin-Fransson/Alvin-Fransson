@@ -1,7 +1,7 @@
-Alvin Fransson 
-Byn 472
-072 889 68 92
-alvinfransson06@gmail.com
+Alvin Fransson, 
+Byn 472,
+072 889 68 92,
+alvinfransson06@gmail.com,
 Född: 2006-12-21 
 
 Jag är en teknikintresserad student som tog studenten 2025 från El- och energiprogrammet på NTI Gymnasiet Sundsvall, med inriktning Dator- och kommunikationsteknik. Under utbildningen har jag lärt mig mycket om nätverk, programmering, Webbutveckling, elektronik och datorservice. 
